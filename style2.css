@@ -1,0 +1,40 @@
+footer{
+    margin: auto;
+    margin-top: 5%;
+}
+.social{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.footer2{
+    width: 78%;
+    margin: auto;
+    margin-top: 3%;
+height: 80px;
+background-color: #fcfcfc;
+}
+.f21{
+    font-size: 12px;
+    color: #676767;
+    width: 35%;
+    margin-top: 0.5%;
+}
+.f22{
+    width: 30%;
+    margin-left: -6%;
+}
+.f22>*{
+    font-size: 14px;
+    font-weight: 600;
+    margin-inline: 2%;
+    color: #676767;
+}
+.footer_icons{
+    width: 25%;
+    margin-top: -0.5%;
+}
