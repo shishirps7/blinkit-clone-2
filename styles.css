@@ -204,6 +204,10 @@ background-color: #fcfcfc;
     color: #676767;
     padding-left: 0.5%;
 }
+#sign{
+    text-align: center;
+    margin-bottom: 2%;
+}
 @media  screen and (max-width:427px) {
     body{
         overflow-x: hidden;
